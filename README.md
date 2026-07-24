@@ -1,4 +1,4 @@
-# 🌌 Informational Time Cosmology (ITC) — Version 4.3
+# 🌌 Informational Time Cosmology (ITC) — Version 4.3.2.1
 ### High-Performance HPC Framework for 5D Organic Gravity & Pure Temporal Dynamics
 
 **Author:** Mohammad Talal Kadri  
