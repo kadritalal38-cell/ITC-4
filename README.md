@@ -41,16 +41,26 @@ The framework was rigorously validated via a Bayesian Inference Kernel against *
 * **Legacy Models (Unstabilized Continuous Functions):** Suffered numerical collapse and deep-space starvation.
 * **The Patched Self-Evolving Hybrid ITC Kernel:** Achieved massive structural optimization and robust convergence by executing fractional dimensions in log-space, completely mapping out localized lensing and cosmic data with mathematical parsimony.
 
----
+---### 📊 Visual Operational Benchmarks
+Below are the dynamically simulated tracking curves verifying the framework's convergence against deep-space telescopic catalogs:
+
+<p align="center">
+  <img src="itc_lensing_shear.png" width="45%" alt="Lensing Shear Benchmark" />
+  <img src="itc_gas_density.png" width="45%" alt="Gas Density Benchmark" />
+</p>
+
 
 ## 🚀 Installation & Requirements
 
 Ensure your accelerated computational environment is equipped with high-precision statistical libraries:
 
 ```bash
+
 pip install numpy scipy
 ```
+
 
 ---
 ## 🎯 Epistemic Conclusion
 > *"Space is a rigid, invariant receiver; Time is the endlessly expanding discrete broadcast. Real cosmology maps the transmission of information, not the mechanical expansion of coordinates."*
+
