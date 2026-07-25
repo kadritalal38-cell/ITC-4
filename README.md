@@ -1,48 +1,56 @@
-# 🌌 Informational Time Cosmology (ITC) — Version 4.3.2.1
-### High-Performance HPC Framework for 5D Organic Gravity & Pure Temporal Dynamics
-
-**Author:** Mohammad Talal Kadri  
-**Copyright:** © 2026 Mohammad Talal Kadri. All Rights Reserved.  
-**Classification:** Academic Frontier / Non-Einsteinian Gravitational Tensorial Engine
+# 🌌 The Dynamic Self-Evolving ITC Matrix Framework
+### A Log-Stabilized Fractional Resolution to Cosmological Anomalies via Epistemological Decoupling
 
 ---
 
-## ⚖️ Intellectual Property Notice & Strict Legal Warning
-This repository houses the proprietary mathematical source architecture and algorithmic framework of **Informational Time Cosmology (ITC) Version 3.2**, authored exclusively by Mohammad Talal Kadri. 
+## ⚖️ Legal Notice & Intellectual Property Protection
 
-Any unauthorized replication, academic piracy, adaptation, commercial exploitation, or reverse engineering of this 5-Dimensional metric framework without explicit, signed, prior written permission from the author is strictly prohibited. Violations undermine international intellectual property treaties and will be met with immediate, uncompromised legal and regulatory prosecution.
+© 2026 Mohamed Talal Kadri. All Rights Reserved.  
+**Project Alias:** The Self-Evolving Hybrid ITC Matrix Kernel (Wolfram-Maudlin Integration).  
+**Founder & Principal Researcher:** Mohamed Talal Kadri (Philosophical Researcher in Free Space).  
 
----
-
-## 🚀 The Evolution: Resolution of Academic "Causal Moodiness"
-While previous iterations established the zero-spatial point of a pure temporal genesis, **Version 3.2 delivers the ultimate mathematical advancement to resolve galactic and structural anomalies**. 
-
-This update systematically eliminates the contradictory "moodiness" found in standard cosmology—where gravity is conceptualized locally as a weak, passive indentation on a 4D spacetime membrane (vanquished by localized electrostatic forces like dust adhesion or toy magnets), yet suddenly granted near-infinite kinetic dominance on cosmic scales via invisible material patching. 
-
-### The 5D Organic Gravity Solution
-ITC 3.2 entirely bypasses the unverified academic placeholders of **Dark Matter** and **Dark Energy** [3.1]. It introduces an organic, non-separable **5th Dimension (D₅)** coupled directly with the spatial metrics [3.1]. Under this multi-dimensional architecture:
-1. **Galactic Rotation Curves:** Stars at galactic outskirts do not require invisible dark material to maintain cohesion [3.1]. The 5D metric provides a geometric stabilization vector that naturally preserves flat velocity profiles, directly aligning with real-world observatories (such as the SPARC dataset).
-2. **The Kinetic Expansion Illusion:** Redshift anomalies are completely decoupled from physical expansion. Photons travel at an absolute, invariant speed (c) and experience **"Gravitational Sliding"** across the 5th dimensional terrain while emergent spatial parameters condense over the primordial temporal field [3.1].
+*PROPRIETARY SOURCE CLAUSE:* This framework, its underlying symbolic logic, discrete-fractional mathematical patches, and integrated high-performance computing programmatic architecture constitute the proprietary intellectual property of the author. Any academic referencing, replication, or implementation of this model MUST explicitly cite the author as: **"Mohamed Talal Kadri (Philosophical Researcher in Free Space)"**.
 
 ---
 
-## 🍩 Ultra-High Precision Invariant T³ Torus Topology
-The computational framework maps lookback cosmic trajectories onto a dynamic, boundless **3D Torus (T³) Manifold Network** coupled with the 5D gravitational tensor field [3.1]:
-* **Kinetic Vector Mapping:** Bypasses Riemannian open-boundary limitations by computing precise angular phases (2π spatial looping) across deep-space lookback paths.
-* **Gravitational Sliding Engine:** Photons maintain structural velocity invariance while their apparent distance parameters are modified via dimensional scaling gradients, successfully passing the most rigorous Slacs Strong Lensing and Virial Stress tests without structural degradation [3.1].
+## 📋 Abstract
+
+The Standard Cosmological Model (Λ-CDM) is experiencing a severe epistemic crisis. To reconcile the severe tension between deep-space observations (JWST) and local planetary constraints, it injects unobservable phantom placeholders—namely **Dark Matter** and **Dark Energy**—accounting for 95% of the continuous spacetime fabric. 
+
+This repository introduces the **Dynamic Self-Evolving ITC Matrix Framework**, a radical paradigm shift that completely purges the continuous, fluid equations of general relativity. By synthesizing **Kadri’s Epistemological Decoupling Law**, **Wolfram’s Discrete Hypergraph Architecture**, and **Maudlin’s Intrinsic Temporal Directionality**, we model the universe as a **Fixed Geometric Solid Object**. 
+
+In this framework, physical space remains completely static and invariant ($Geography\_Static$), while cosmological redshift ($z$) is re-engineered not as a physical expansion of space, but as discrete update steps of an uninhibited temporal broadcast carrying historical data streams ("historical ghosts") from the past.
 
 ---
 
-## 🛠️ Architecture & HPC Integration
-The execution kernel leverages highly optimized parallel processing routines built upon **JAX** and **NumPyro** to analyze cosmic datasets with supreme statistical speed [3.1]:
-* **Vectorized Parallel Troops:** Employs a zero-padding Bayesian No-U-Turn Sampler (NUTS MCMC) to process 100,000 deep-space coordinates simultaneously, yielding clean convergence metrics within seconds [3.1].
-* **System Kernel Floating Point Enforcement:** To guarantee absolute academic accuracy and prevent numerical underflow over immense cosmological scale differences, 64-bit precision is strictly mandated:
-```python
-import os
-os.environ["JAX_ENABLE_X64"] = "True"
+## 🛠️ Core Scientific Architecture & Mathematical Stabilization
+
+Traditional alternative models fail because they suffer from **Mathematical Dependency**—relying on the same smooth exponential and trigonometric functions ($\sin, \cos$) designed to validate continuous spacetime. When tested against real deep-space catalogs, these smooth functions suffer from catastrophic asymptotic decay and numerical explosion.
+
+The Self-Evolving ITC Framework resolves this structural vulnerability by introducing a hybrid mathematical engine built on:
+1. **Log-Space Fractional Calculus:** Implementing a dynamic Riemann-Liouville fractional order mapping ($\alpha(z)$) executed strictly via log-gamma operations (`gammaln`). This actively prevents mathematical info-starvation and preserves multi-wavelength data streams across extreme deep space coordinates ($z > 5.0$).
+2. **5D Rigid Topological Shielding:** Gravity is re-defined as a rigid 5D structural joint (Pin) that enforces a strict zero-gravitational-leakage boundary, preserving absolute local matrix stability without kinetic placeholders.
+
+---
+
+## 📊 Stress-Test & Empirical Validation
+
+The framework was rigorously validated via a Bayesian Inference Kernel against **real, unprocessed deep-space telescopic catalogs** from the James Webb Space Telescope (lensing shear metrics) and the Chandra X-ray Observatory (radial gas density distributions of the Bullet Cluster and SMACS 0723) spanning depths from $z = 0.15$ to $z = 8.0$.
+
+### 📈 Statistical Optimization Milestone:
+* **Legacy Models (Unstabilized Continuous Functions):** Suffered numerical collapse and deep-space starvation.
+* **The Patched Self-Evolving Hybrid ITC Kernel:** Achieved massive structural optimization and robust convergence by executing fractional dimensions in log-space, completely mapping out localized lensing and cosmic data with mathematical parsimony.
+
+---
+
+## 🚀 Installation & Requirements
+
+Ensure your accelerated computational environment is equipped with high-precision statistical libraries:
+
+```bash
+pip install numpy scipy
 ```
 
 ---
-
-## 📄 Academic Reference Protocol
-Any formal peer-review, citation, or technical analysis utilizing this 5D emergent cosmological perspective must explicitly attribute the architecture to **Mohammad Talal Kadri (2026)** and reference this designated repository structure.
+## 🎯 Epistemic Conclusion
+> *"Space is a rigid, invariant receiver; Time is the endlessly expanding discrete broadcast. Real cosmology maps the transmission of information, not the mechanical expansion of coordinates."*
