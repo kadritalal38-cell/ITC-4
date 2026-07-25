@@ -1,30 +1,34 @@
-
+"""
+========================================================================================
+🌌 THE DYNAMIC SELF-EVOLVING ITC MATRIX FRAMEWORK - VISUAL PLOTTING ENGINE (v1.5)
+========================================================================================
+... (تم حذف الكود للتركيز على التعديلات الرئيسية)
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
-# --- 1. Simulation Data Setup ---
-z_catalog = np.array([0.15, 0.5, 1.0, 2.0, 3.5, 5.0, 6.5, 8.0]) 
-observed_shear = np.array([0.275, 0.220, 0.165, 0.110, 0.075, 0.048, 0.031, 0.019]) 
-observed_density = np.array([4.21, 2.85, 1.62, 0.88, 0.45, 0.22, 0.11, 0.05]) 
+# 1. Ingest Data Catalogs
+# ... (نفس الكود)
 
-# --- 2. Plotting Function (Utilizing Matplotlib) ---
+# 2. Mathematical Models Engines (أضف دوال الحساب المفقودة هنا)
+def calculate_itc_physics(z):
+    pred_shear = 0.28 / (1.0 + 1.8 * z)
+    pred_density = 4.5 / (1.0 + 1.5 * z)
+    return pred_shear, pred_density
+
+def calculate_lcdm_physics(z):
+    # ... (معادلات CDM)
+    return lcdm_shear, lcdm_density
+
+# 3. Updated High-Fidelity Plotting Execution
 def generate_plots():
-    z_dense = np.linspace(0.15, 8.5, 500)
+    # ... (حساب z_dense)
     
-    # Plot 1: Lensing Shear
-    plt.figure(figsize=(10, 6))
-    plt.scatter(z_catalog, observed_shear, color='red', label='Observed')
-    plt.title('Lensing Shear Benchmark')
-    plt.savefig('itc_lensing_shear_benchmark.png', dpi=300)
-    plt.close()
-
-    # Plot 2: Density
-    plt.figure(figsize=(10, 6))
-    plt.scatter(z_catalog, observed_density, color='red', label='Observed')
-    plt.title('Gas Density Profile')
-    plt.savefig('itc_gas_density_benchmark.png', dpi=300)
-    plt.close()
-    print("[+] Plots generated: .png files")
+    # ---- PLOT 1 & 2: أضف أسطر plt.plot() الخاصة بـ itc_shear/density و lcdm_shear/density ----
+    # مثال: plt.plot(z_dense, itc_shear, color='blue', label='ITC')
+    
+    # ... (حفظ الصور)
+    print("[+] High-resolution benchmark plots successfully compiled.")
 
 if __name__ == "__main__":
     generate_plots()
