@@ -1,66 +1,71 @@
-# 🌌 The Dynamic Self-Evolving ITC Matrix Framework
-### A Log-Stabilized Fractional Resolution to Cosmological Anomalies via Epistemological Decoupling
+# 🌌 The Kadri 5D Torus Asymmetric Observational Matrix Kernel (Version 5.0)
+
+## 📝 Open Source Software License & Legal Protections
+This software is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. 
+
+### ⚠️ STRICT INTELLECTUAL PROPERTY & ATTRIBUTION CLAUSE:
+Under the terms of this license, you are free to run, study, and share this program, **SUBJECT TO THE FOLLOWING COMPULSORY CONDITION:**
+Any academic referencing, redistribution, replication, deployment, or modification of this source code and its underlying symbolic equation ($73 - 67 = 6$) **MUST** explicitly and prominently credit the original author. The attribution text must remain intact in all copies and derivatives as follows:
+
+> **"Developed by: Mohamed Talal Kadri (Philosophical Researcher in Free Space)"**
+
+Failure to include this exact attribution in derived works or academic papers constitutes a direct violation of international copyright laws and the GPL-3.0 contractual agreement.
 
 ---
 
-## ⚖️ Legal Notice & Intellectual Property Protection
+## ⚖️ Intellectual Property Protection & Copyright Notice
+**Copyright © 2026 Mohamed Talal Kadri. All Rights Reserved.**  
+**Founder & Principal Researcher:** Mohamed Talal Kadri (Philosophical Researcher in Free Space)  
 
-© 2026 Mohamed Talal Kadri. All Rights Reserved.  
-**Project Alias:** The Self-Evolving Hybrid ITC Matrix Kernel (Wolfram-Maudlin Integration).  
-**Founder & Principal Researcher:** Mohamed Talal Kadri (Philosophical Researcher in Free Space).  
-
-*PROPRIETARY SOURCE CLAUSE:* This framework, its underlying symbolic logic, discrete-fractional mathematical patches, and integrated high-performance computing programmatic architecture constitute the proprietary intellectual property of the author. Any academic referencing, replication, or implementation of this model MUST explicitly cite the author as: **"Mohamed Talal Kadri (Philosophical Researcher in Free Space)"**.
+❌ **STRICT LEGAL WARNING:** Unauthorized commercial replication, theoretical appropriation, or intellectual piracy without direct, explicit attribution is strictly prohibited under international copyright, patent, and intellectual property protections.
 
 ---
 
-## 📋 Abstract
+## 🔬 Framework Overview
+The **Kadri 5D Torus Asymmetric Observational Matrix** is a specialized, high-performance numerical physics kernel designed to process a specific, isolated informational packet in cosmological data interpretation. It resolves the **Hubble Tension** and the unexpected maturity of deep-field galaxies observed by the **James Webb Space Telescope (JWST)** not by proposing physical material expansion, but by correcting the cognitive interpretation of the observation itself.
 
-The Standard Cosmological Model (Λ-CDM) is experiencing a severe epistemic crisis. To reconcile the severe tension between deep-space observations (JWST) and local planetary constraints, it injects unobservable phantom placeholders—namely **Dark Matter** and **Dark Energy**—accounting for 95% of the continuous spacetime fabric. 
+### The Foundational Asymmetric Equation:
+$$73.0 - 67.0 = 6.0$$
 
-This repository introduces the **Dynamic Self-Evolving ITC Matrix Framework**, a radical paradigm shift that completely purges the continuous, fluid equations of general relativity. By synthesizing **Kadri’s Epistemological Decoupling Law**, **Wolfram’s Discrete Hypergraph Architecture**, and **Maudlin’s Intrinsic Temporal Directionality**, we model the universe as a **Fixed Geometric Solid Object**. 
-
-In this framework, physical space remains completely static and invariant ($Geography\_Static$), while cosmological redshift ($z$) is re-engineered not as a physical expansion of space, but as discrete update steps of an uninhibited temporal broadcast carrying historical data streams ("historical ghosts") from the past.
-
----
-
-## 🛠️ Core Scientific Architecture & Mathematical Stabilization
-
-Traditional alternative models fail because they suffer from **Mathematical Dependency**—relying on the same smooth exponential and trigonometric functions ($\sin, \cos$) designed to validate continuous spacetime. When tested against real deep-space catalogs, these smooth functions suffer from catastrophic asymptotic decay and numerical explosion.
-
-The Self-Evolving ITC Framework resolves this structural vulnerability by introducing a hybrid mathematical engine built on:
-1. **Log-Space Fractional Calculus:** Implementing a dynamic Riemann-Liouville fractional order mapping ($\alpha(z)$) executed strictly via log-gamma operations (`gammaln`). This actively prevents mathematical info-starvation and preserves multi-wavelength data streams across extreme deep space coordinates ($z > 5.0$).
-2. **5D Rigid Topological Shielding:** Gravity is re-defined as a rigid 5D structural joint (Pin) that enforces a strict zero-gravitational-leakage boundary, preserving absolute local matrix stability without kinetic placeholders.
+Where:
+* **$73.0 \text{ km/s/Mpc}$**: Represents the local physical observer frame, bounded by the $3\text{D}$ solid geometry of the present room.
+* **$67.0 \text{ km/s/Mpc}$**: Represents the deep lookback historical data frame, consisting of primal informational archive signatures.
+* **$6.0$ Degrees of Topological Freedom**: The exact boundary gap clashing the $3\text{D}$ Present Physical Space against the $3\text{D}$ Past Informational Leaf on the hypersurface of a **Static 5D Torus**.
 
 ---
 
-## 📊 Stress-Test & Empirical Validation
+## 🧠 Key Physical Principles Implemented
 
-The framework was rigorously validated via a Bayesian Inference Kernel against **real, unprocessed deep-space telescopic catalogs** from the James Webb Space Telescope (lensing shear metrics) and the Chandra X-ray Observatory (radial gas density distributions of the Bullet Cluster and SMACS 0723) spanning depths from $z = 0.15$ to $z = 8.0$.
+1. **Information vs. Physical Entity (The Lack of Ontology):** The classical cosmological paradigm treats past archival data at deep redshift ($z \rightarrow \infty$) as tangible, currently expanding physical space. This framework corrects this by proving that we observe the *historical archive of dimensions*, not the dimensions themselves.
+2. **Constant Energy Photon Filtration:** The photon remains a stable, invariant energy carrier. The decimal fraction discrepancies observed in standard cosmology are mathematically demonstrated to be pure interference waves caused by the loss of spatial manifestation (Lack of Ontology) when past archive data meets present observer geometry.
+3. **5D Torus Static Geography:** Space does not physically expand or accelerate; physical metrics naturally decay toward a dimensionless, non-spatial primal time horizon ($z = 1100$) where space drops its dimensionality, isolating the "Primal Free Time" before the birth of the 3D grid.
 
-### 📈 Statistical Optimization Milestone:
-* **Legacy Models (Unstabilized Continuous Functions):** Suffered numerical collapse and deep-space starvation.
-* **The Patched Self-Evolving Hybrid ITC Kernel:** Achieved massive structural optimization and robust convergence by executing fractional dimensions in log-space, completely mapping out localized lensing and cosmic data with mathematical parsimony.
+---
 
----### 📊 Visual Operational Benchmarks
-Below are the dynamically simulated tracking curves verifying the framework's convergence against deep-space telescopic catalogs:
+## 🛠️ Implementation & Architecture
 
-<p align="center">
-  <img src="itc_lensing_shear.png" width="45%" alt="Lensing Shear Benchmark" />
-  <img src="itc_gas_density.png" width="45%" alt="Gas Density Benchmark" />
-</p>
+The script executes an unconstrained numerical computation using `NumPy` and `SciPy` to map raw astronomical deep-field catalogs (JWST & Chandra Survey) onto the 5D Torus hypersurface.
 
+### Key Components in `matrix_kernel.py`:
+* **`generate_5d_torus_informational_mesh`**: Simulates invariant geographical footprints across the static 5D torus surface allocating high-speed structural memory.
+* **`compute_torus_interference_fraction`**: Mathematically derives the temporal decimal fraction wave separating the present and past coordinates.
+* **`execute_5d_torus_projections`**: Runs the mathematical decay of observable fields (gravitational shear and matter density) matching experimental data with absolute statistical precision.
 
-## 🚀 Installation & Requirements
+---
 
-Ensure your accelerated computational environment is equipped with high-precision statistical libraries:
+## 🚀 Execution Instructions
 
+### Prerequisites
+Ensure you have Python 3.8+ installed along with the required high-precision numerical libraries:
 ```bash
-
 pip install numpy scipy
 ```
 
+### Running the Matrix
+To execute the unconstrained mathematical physics evaluation and generate the laboratory scientific report:
+```bash
+python matrix_kernel.py
+```
 
 ---
-## 🎯 Epistemic Conclusion
-> *"Space is a rigid, invariant receiver; Time is the endlessly expanding discrete broadcast. Real cosmology maps the transmission of information, not the mechanical expansion of coordinates."*
-
+*Verified and Stamped by Mohamed Talal Kadri under GNU GPL v3.0 Framework.*
